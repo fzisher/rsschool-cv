@@ -10,7 +10,10 @@ Skills
 
 **Graphic Editors:** Figma, Tilda
 
-
 Education 
 ------
 **College of Communication named after Vostrukhina:** "Information Systems and Programming" (Web and multimedia developer)
+
+Internships
+------
+**NPF "THE FUTURE":** Assistant designer
