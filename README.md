@@ -1,1 +1,1 @@
-https://github.com/fzisher/rsschool-cv/blob/gh-pages/cm.md
+https://fzisher.github.io/rsschool-cv/
